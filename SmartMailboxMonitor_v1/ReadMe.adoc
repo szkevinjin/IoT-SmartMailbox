@@ -15,7 +15,7 @@ For this version of the project, Arduino IoT Cloud was used as the host server t
 
 Assemble the circuit with the chip chosen. 
 
-===BOM
+BOM
 1. Arduino Nano 33 for IoT
 2. Servo
 3. RFID sensor and tags
