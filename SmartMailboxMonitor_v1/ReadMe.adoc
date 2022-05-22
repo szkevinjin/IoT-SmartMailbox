@@ -1,12 +1,12 @@
-:Author: kevinjinky
+:Author: Kevin Jin
 :Email:
 :Date: 10/05/2022
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Smart Mailbox System v1
 
-Describe your project
+The majority of mailboxes in use today are just metal boxes with mechanical locks that mail carriers and residents need to unlock manually to place the mail inside or to retrieve them. Some indoor mailbox suites for apartments have a small gap to slide in the mail for delivery without unlockingthe mailbox, but they carry an increased risk of mail theft. This project experiments with digitizing the experience of using a mailbox, add attempts to address the need for fast and secure access to mailboxes and notifications for delivery. 
 
 == Step 1: Installation
 Please describe the steps to install this project.
