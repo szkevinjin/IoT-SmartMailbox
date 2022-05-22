@@ -15,11 +15,11 @@ For this version of the project, Arduino IoT Cloud was used as the host server t
 
 Assemble the circuit with the chip chosen. 
 
-BOM
-1. Arduino Nano 33 for IoT
-2. Servo
-3. RFID sensor and tags
-4. Buzzer
+.BOM
+  1. Arduino Nano 33 for IoT
+  2. Servo
+  3. RFID sensor and tags
+  4. Buzzer
 
 == Step 3: Load the code
 Upload the code via the online Arduino IoT Cloud code editor. 
